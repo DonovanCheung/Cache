@@ -1,0 +1,4 @@
+verilog work "memory.v"
+verilog work "cache_p1.v"
+verilog work "cache_tb1.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

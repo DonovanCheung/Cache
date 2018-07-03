@@ -1,0 +1,78 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.4/examples
+T_opt
+!s110 1530557211
+VB]k7G@A<l=Hl:2A7d[R;R1
+04 8 4 work cache_tb fast 0
+=1-005056be2370-5b3a731a-25d-2bf4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vCache
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 aiLmNZ8o7ZN=XkOSL_]Sl0
+IfG68A;We9K_XAXz`OPPcg0
+Z2 d//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1
+w1530573534
+8//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/cache_p1.v
+F//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/cache_p1.v
+L0 2
+Z3 OL;L;10.4;61
+!s108 1530574333.768000
+!s107 //Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_p1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_p1.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@cache
+vcache_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 i6zaYk?8[OQMIQ:`3ST^U2
+ILbij_OWb6hGo=fPP^InzZ1
+R2
+w1530414105
+8//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/cache_tb1.v
+F//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/cache_tb1.v
+L0 3
+R3
+!s108 1530574334.139000
+!s107 //Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_tb1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_tb1.v|
+!i113 0
+R4
+vMemory
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 f@m^On0oY9WJaYA2gR`ZA2
+I=ahUzK]Zm9:UOe3jDM9n72
+R2
+w1469658430
+8//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/memory.v
+F//Vlabfs.vlab.usc.edu/home$$/cheungdo/Desktop/lab4part1/memory.v
+L0 11
+R3
+!s108 1530574334.500000
+!s107 //Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/memory.v|
+!i113 0
+R4
+n@memory

@@ -1,0 +1,22 @@
+{//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_tb1.v} {1 {vlog -work work -vopt -stats=none {//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_tb1.v}
+QuestaSim-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module cache_tb
+
+Top level modules:
+	cache_tb
+
+} {} {}} {//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_p1.v} {1 {vlog -work work -vopt -stats=none {//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/cache_p1.v}
+QuestaSim-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} {//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/memory.v} {1 {vlog -work work -vopt -stats=none {//Vlabfs.vlab.usc.edu/home$/cheungdo/Desktop/lab4part1/memory.v}
+QuestaSim-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}
